@@ -1,6 +1,6 @@
 <!-- GATO  -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e3/6a/c4/e36ac4d92fd3ee5cedc79cf088182bc9.gif" width="50%" />
+  <img src="https://i.pinimg.com/originals/e3/6a/c4/e36ac4d92fd3ee5cedc79cf088182bc9.gif" style="width:100%; height:50vh; object-fit:cover;" />
 </p>
 
 <!-- FRASE  -->
@@ -20,7 +20,7 @@ Sempre buscando aprender mais neste mundo.
 
 <div align="center">
 
-> *"O Senhor é a minha luz e a minha salvação; de quem terei medo?"*  
+> *"O Senhor é a minha luz e a minha salvação—de quem terei medo?"*  
 > *"The Lord is my light and my salvation—whom shall I fear?"*  
 > *יְהוָה אוֹרִי וְיִשְׁעִי; מִמִּי אִירָא?*  
 > *— Salmo 27:1*
