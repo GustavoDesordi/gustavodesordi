@@ -1,6 +1,6 @@
 <!-- GATO  -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e3/6a/c4/e36ac4d92fd3ee5cedc79cf088182bc9.gif" width="70%" height="250px" />
+  <img src="https://i.pinimg.com/originals/e3/6a/c4/e36ac4d92fd3ee5cedc79cf088182bc9.gif" width="100%" height="250px" />
 </p>
 
 <!-- FRASE  -->
