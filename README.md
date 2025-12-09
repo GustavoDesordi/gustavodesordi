@@ -20,9 +20,9 @@ Sempre buscando aprender mais neste mundo.
 
 <div align="center">
 
-> *"O Senhor é a minha luz e a minha salvação; de quem terei medo?"*   
-> *"The Lord is my light and my salvation—whom shall I fear?"*
-> *יְהוָה אוֹרִי וְיִשְׁעִי; מִמִּי אִירָא?*       
+> *"O Senhor é a minha luz e a minha salvação; de quem terei medo?"*  
+> *"The Lord is my light and my salvation—whom shall I fear?"*  
+> *יְהוָה אוֹרִי וְיִשְׁעִי; מִמִּי אִירָא?*  
 > *— Salmo 27:1*
 
 </div>
