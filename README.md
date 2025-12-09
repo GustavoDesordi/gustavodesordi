@@ -22,7 +22,7 @@ Sempre buscando aprender mais neste mundo.
 
 > *"O Senhor é a minha luz e a minha salvação; de quem terei medo?"*   
 > *"The Lord is my light and my salvation—whom shall I fear?"*
-> *יְהוָה אוֹרִי וְיִשְׁעִי; מִמִּי אִירָא?*    
+> *יְהוָה אוֹרִי וְיִשְׁעִי; מִמִּי אִירָא?*       
 > *— Salmo 27:1*
 
 </div>
