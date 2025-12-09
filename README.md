@@ -18,11 +18,12 @@ e atualmente trabalho com <b>suporte técnico</b>.<br>
 Sempre buscando aprender mais neste mundo.
 </p>
 
-<p align="center">
-  ´´´
-> **"O Senhor é a minha luz e a minha salvação; de quem terei medo?"**  
+<div align="center">
+
+> *"O Senhor é a minha luz e a minha salvação; de quem terei medo?"*  
 > *יְהוָה אוֹרִי וְיִשְׁעִי; מִמִּי אִירָא?*  
-> **"The Lord is my light and my salvation—whom shall I fear?"**  
-> — *Salmo 27:1*
-  ´´´
-</p>
+> *"The Lord is my light and my salvation—whom shall I fear?"*  
+> *— Salmo 27:1*
+
+</div>
+
