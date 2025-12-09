@@ -1,11 +1,11 @@
 <!-- GIF do gato no topo -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e3/6a/c4/e36ac4d92fd3ee5cedc79cf088182bc9.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/e3/6a/c4/e36ac4d92fd3ee5cedc79cf088182bc9.gif" width="50%" />
 </p>
 
 <!-- GIF da frase sendo digitada -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&lines=Buenasss%2C+Gustavo+aki!" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&lines=Buenasss%2C+Gustavo+aki!;Seja+bem-vindo+ao+meu+perfil!" width="50%">
 </p>
 
 ---
