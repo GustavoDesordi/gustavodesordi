@@ -13,7 +13,7 @@
 <h3 align="center">| Sobre mim |</h3>
 
 <p align="center">
-Sou <b>Gustavo Desordi</b>, tenho <b>19 anos</b>, curso <b>Ciência da Computação na UNOCHAPECÓ</b><br>
+Sou <b>Gustavo Desordi</b>, tenho <b>19 anos</b>, curso <b>Ciência da Computação na Unochapecó</b><br>
 e atualmente trabalho com <b>suporte técnico</b>.<br>
 Sempre buscando aprender mais neste mundo.
 </p>
