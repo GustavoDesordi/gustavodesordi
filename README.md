@@ -5,7 +5,7 @@
 
 <!-- FRASE  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Buenasss%2C+Gustavo+aki!;Seja+bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Buenasss%2C+Gustavo+aqui!;Seja+bem-vindo+ao+meu+perfil!" />
 </p>
 
 ---
