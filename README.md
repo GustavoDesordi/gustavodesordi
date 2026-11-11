@@ -13,8 +13,6 @@
 ---
 <p align="center">
   I'm a Computer Science student passionate about technology, software development, and understanding how things work under the hood.
-
-  Here you'll find my projects, experiments, and learning journey across programming, backend development, Linux, and computer systems.
 </p>
 
 ---
