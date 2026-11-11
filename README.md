@@ -4,13 +4,12 @@
   <em>Computer Science Student • Software Development Enthusiast</em>
 </p>
 
----
-
 <p align="center">
   <img src="assets/gifartemislaunch.gif" width="426" alt="NASA Artemis Rocket Launch" />
 </p>
 
 ---
+
 <p align="center">
   I'm a Computer Science student passionate about technology, software development, and understanding how things work under the hood.
 </p>
